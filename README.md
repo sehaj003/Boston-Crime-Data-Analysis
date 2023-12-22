@@ -1,4 +1,6 @@
 Dataset file: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+
+
 TASKS:
 1. Data Acquisition
 2. Data Inspection: Check the data types of each column, Review column names and descriptions.
